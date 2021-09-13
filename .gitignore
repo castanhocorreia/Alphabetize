@@ -1,0 +1,17 @@
+.DS_Store
+.husky/_
+.idea/
+*.env
+*.log
+*.pem
+*.todo
+build/
+coverage/
+dist/
+node_modules/
+npm-debug.log*
+out/
+package-lock.json
+target/
+yarn-debug.log*
+yarn-error.log*
