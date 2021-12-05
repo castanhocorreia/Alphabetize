@@ -5,6 +5,7 @@
 *.log
 *.pem
 *.todo
+*.vsix
 build/
 coverage/
 dist/

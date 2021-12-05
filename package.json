@@ -4,7 +4,7 @@
 	"description": "Sort lines alphabetically in Visual Studio Code.",
 	"version": "0.1.0",
 	"publisher": "castanhocorreia",
-	"icon": "src/icon.webp",
+	"icon": "images/icon.webp",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/castanhocorreia/alphabetize"
